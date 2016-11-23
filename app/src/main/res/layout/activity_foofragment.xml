@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_foofragment"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.musicalive.Foofragment"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="SIGN IN" />
+
+    <Button
+        android:id="@+id/googlebtnlog"
+        android:layout_marginTop="145dp"
+        android:layout_width="209dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="GOOGLE"
+
+        android:drawableLeft="@drawable/common_google_signin_btn_icon_light_pressed"
+        android:layout_weight="0.01" />
+
+    <Button
+        android:id="@+id/signINbtn"
+        android:layout_marginTop="14dp"
+        android:layout_width="209dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="SIGN UP"
+
+        android:layout_weight="0.01" />
+
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "285059019810",
+    "firebase_url": "https://musicalive-6f3b3.firebaseio.com",
+    "project_id": "musicalive-6f3b3",
+    "storage_bucket": "musicalive-6f3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285059019810:android:6cdd19f74d0dd310",
+        "android_client_info": {
+          "package_name": "com.example.android.musicalive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285059019810-der3mvoej05jat8v9u1ek3jugtetcptp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.musicalive",
+            "certificate_hash": "AAE15044D3352BD4FF63212A5004764BC7FB1DC6"
+          }
+        },
+        {
+          "client_id": "285059019810-f8a93thj6luss5g0qldjsh27vjqs66bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ybj7ph9SOosNbHucUMTerrki_dKKgyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285059019810-f8a93thj6luss5g0qldjsh27vjqs66bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
